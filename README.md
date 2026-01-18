@@ -15,6 +15,9 @@ Senior Game Developer @ BlueCreazione
 - Getting Grown
 - Afro Warrior
 - VR Archery
+- HPL
+- Sand Tetris
+- Sand, Water, Blocks Simulator
 
 ### Personal Projects
 - HPL=> Hand Primier League, is a Photon multiplayer hand cricket game where 2 players join a room, then one player bowls and selects a number from 1-6 and batsman selects a number from 1-6. If both the numbers are same then the batsman gets out and then the bowler's innings start and now second player has to make more than the first player to win and same runs to draw the game. Used AI to generate artwork and used EA Cricket 07 audio tracks for background music.
