@@ -1,6 +1,3 @@
-# jiteshkumar-gamedev.github.io
-jiteshkumar-gamedev.github.io/portfolio
-
 # Game Developer & Designer
 
 ### Education
