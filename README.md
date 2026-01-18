@@ -8,8 +8,8 @@ B.Sc. Game Design & Interactive Media
 
 ### Work Experience
 1- Senior Game Developer @ BlueCreazione
-- Getting Grown=> Open world game with financial education, optimized gameplay using addressables system, optimized 35% memory usage optimizing models,texture,audio files using Memory Profiler, Implemented mini games for player to earn money and used Ready Player Me for offering the player to create custom avatars and then edit later paying a price, backend APIs
-- Afro Warror=> 3D endless runner with Photon multiplayer, fixed many photon related issues, added ping checker system where player is able to see what ping it would play from all the options of region servers scroll view, fixed player movement in multiplayer 
+- **Getting Grown** → Open world game with financial education, optimized gameplay using addressables system, optimized 35% memory usage optimizing models,texture,audio files using Memory Profiler, Implemented mini games for player to earn money and used Ready Player Me for offering the player to create custom avatars and then edit later paying a price, backend APIs
+- **Afro Warrior** → 3D endless runner with Photon multiplayer, fixed many photon related issues, added ping checker system where player is able to see what ping it would play from all the options of region servers scroll view, fixed player movement in multiplayer 
 
 2- Game Designer, 3D Artist Freelancer
 - Worked with international clients with 100+ orders with the excellent rating.
