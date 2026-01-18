@@ -46,7 +46,7 @@ B.Sc. Game Design & Interactive Media
   <iframe 
     width="100%" 
     height="315"
-    src="https://youtu.be/f7FqUHNHNRM"
+    src="https://www.youtube.com/embed/f7FqUHNHNRM"
     title="Gameplay Video"
     frameborder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
