@@ -42,9 +42,18 @@ B.Sc. Game Design & Interactive Media
     <li>Implemented mini-game economy systems</li>
   </ul>
 
-  <p>
-    🎥 <a href="https://youtu.be/f7FqUHNHNRM">Gameplay Video</a><br>
-  </p>
+<div style="margin-top:12px;">
+  <iframe 
+    width="100%" 
+    height="315"
+    src="https://youtu.be/f7FqUHNHNRM"
+    title="Gameplay Video"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+  </iframe>
+</div>
+
 </div>
 
 
